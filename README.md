@@ -1,6 +1,7 @@
 # PHP_MySQL
-
-![](http://aula.carmanconsultoria.com/pluginfile.php/3796/course/summary/php-mysql.png)
+<p align="center">
+  <img src="http://aula.carmanconsultoria.com/pluginfile.php/3796/course/summary/php-mysql.png" />
+</p>
 
 
 personal project - data base
